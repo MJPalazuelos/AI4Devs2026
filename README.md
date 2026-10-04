@@ -8,7 +8,7 @@ Aquí reúno los ejercicios, prácticas y el proyecto final del programa, enfoca
 
 Emprendedor con casi 40 años en tecnología. Empecé a programar a los 12 años y fundé empresas de internet y telecomunicaciones durante más de dos décadas. Hoy regreso al desarrollo de software para incorporar la IA como herramienta central de trabajo.
 
-- LinkedIn: [MJPalazuelos](https://www.linkedin.com/in/TU-ENLACE)
+- LinkedIn: [MJPalazuelos](https://www.linkedin.com/in/mjpalazuelos/)
 
 ## Herramientas
 
